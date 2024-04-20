@@ -1,0 +1,45 @@
+/* add your CSS here */
+h1{
+    margin-bottom:5px;
+  }
+  .card{
+      width:340px;
+      height:auto;
+      border: 2px solid lightgray;
+      border-radius:25px;
+      font-family:"Garamond";
+      box-shadow:10px 10px 5px lightgray;
+      background-color: beige;
+  }
+  .content{
+    margin: 20px;
+  }
+  img{
+    width:300px;
+    border-radius:25px;
+    padding-left:1px;
+    padding-bottom:10px;
+    }
+  
+  .description{
+    border: 2px solid lightgray;
+    border-radius:25px;
+    padding:10px;
+    background-color:black;
+    color:white;
+    }
+  .introduction{
+    font-size:12pt;
+    font-style: italic;
+    }
+  
+  ul{
+    font-size:12pt;
+    list-style: none; 
+    padding-left:3px;
+    }
+  
+  .conclusion{
+    font-size:12pt;
+    padding-bottom:10px;
+    }
